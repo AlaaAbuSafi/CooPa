@@ -1,0 +1,17 @@
+/* Google Font */
+@import url(http://fonts.googleapis.com/css?family=Cabin:400,400italic,600,600italic,700,700italic); /* Cabin */
+@import url(http://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic);  /* Lato */
+
+/* Icons */
+@import url(./font-awesome.min.css);
+
+#errorinput {
+	width: 92%; 
+	margin: 0px auto; 
+	padding: 10px; 
+	border: 1px solid #a94442; 
+	color: #a94442; 
+	background: #f2dede; 
+	border-radius: 5px; 
+	text-align: left;
+}

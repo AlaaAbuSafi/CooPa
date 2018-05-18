@@ -1,0 +1,42 @@
+*{
+	box-sizing: border-box;
+}
+#login{
+	width: 40%;
+	padding-top: 30px;
+	padding-right: 30px;
+	padding-left: 50px;
+}
+
+#loginform{
+	margin-right: 20px;	
+	max-width: none;
+	margin: 0px;
+
+}
+#loginform input{
+	width: 200px;
+}
+
+#rform{
+	float: right;
+	width: 50%
+
+}
+
+#lform{
+	width: 50%;
+	padding-left: 5px;
+
+
+}
+#image{
+	height: 200px;
+}
+
+#loginform label{
+	text-align: right;
+	width: 200px;
+}
+
+#rform{
